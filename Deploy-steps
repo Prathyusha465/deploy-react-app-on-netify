@@ -1,0 +1,7 @@
+To deploy a react site:
+run "npm run build" command inside the terminal of our react app. This will create a new folder named "build" or "dist".
+open netlify
+click on new site
+click deploy manually
+now drag and drop that ("build" or "dist") folder into netify.
+after some time our site will be deployed.
